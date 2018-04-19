@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=C7 NewDesignator=C7的标号接了个R
+Added Component: Designator=C6(CAP-SIP)
+Added Component: Designator=C15(CAP-SIP)
+Added Component: Designator=C16(CAP-SIP)
+Added Pin To Net: NetName=PSEGND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=12V Pin=C15-2
+Added Pin To Net: NetName=PSEGND Pin=C16-1
+Added Pin To Net: NetName=12V Pin=C16-2
+Added Member To Class: ClassName=POWER Member=Component C6 22UF/63V
+Added Member To Class: ClassName=POWER Member=Component C15 100UF/16V
+Added Member To Class: ClassName=POWER Member=Component C16 22UF/63V
+Added Room: Name=407VS429
+Added Room: Name=POWER

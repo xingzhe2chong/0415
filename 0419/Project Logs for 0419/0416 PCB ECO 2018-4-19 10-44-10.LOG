@@ -1,0 +1,10 @@
+Added Component: Designator=C52(0603T)
+Added Component: Designator=C73(0603T)
+Added Component: Designator=R72(2512¹«ÖÆ6432)
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=12V Pin=C52-2
+Added Member To Class: ClassName=POWER Member=Component C52 104
+Added Member To Class: ClassName=407VS429 Member=Component C73 105
+Added Member To Class: ClassName=407VS429 Member=Component R72 Res2
+Added Room: Name=407VS429
+Added Room: Name=POWER

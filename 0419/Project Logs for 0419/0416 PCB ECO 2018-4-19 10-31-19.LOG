@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=GND Pin=C99-1
+Removed Pin From Net: NetName=3V3 Pin=J11-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=S2-2
+Removed Pin From Net: NetName=PA14 Pin=SWD1-2
+Removed Pin From Net: NetName=PA13 Pin=SWD1-3
+Removed Pin From Net: NetName=I2C1_SCL Pin=U3-115
+Removed Pin From Net: NetName=NRFU_RX Pin=U9-22
+Removed Pin From Net: NetName=NRFU_TX Pin=U9-23
+Removed Pin From Net: NetName=PA14 Pin=U9-25
+Removed Pin From Net: NetName=PA13 Pin=U9-26
+Removed Pin From Net: NetName=PB15 Pin=U9-40
+Removed Pin From Net: NetName=PB14 Pin=U9-41
+Removed Pin From Net: NetName=PB13 Pin=U9-42
+Removed Pin From Net: NetName=PB12 Pin=U9-43
+Removed Pin From Net: NetName=52832RESET Pin=U9-44
+Removed Member From Class: ClassName=407VS429 Member=C99
+Change Component Designator: OldDesignator=C1 NewDesignator=C116
+Change Component Library : Designator=U9 Old Library=YQ.SchLib New Library=Sui.SCHLIB
+Added Component: Designator=C73(0603T)
+Added Component: Designator=C117(0603T)
+Added Component: Designator=C200(1206)
+Added Component: Designator=R72(2512¹«ÖÆ6432)
+Added Pin To Net: NetName=12V Pin=C52-2
+Added Pin To Net: NetName=GND Pin=C117-1
+Added Pin To Net: NetName=GND Pin=C200-1
+Added Pin To Net: NetName=12V Pin=C200-2
+Added Pin To Net: NetName=+5V Pin=J11-1
+Added Pin To Net: NetName=12V Pin=R38-2
+Added Pin To Net: NetName=12V Pin=U2-7
+Added Pin To Net: NetName=PB12 Pin=U9-9
+Added Pin To Net: NetName=PB13 Pin=U9-10
+Added Pin To Net: NetName=PB14 Pin=U9-11
+Added Pin To Net: NetName=PB15 Pin=U9-12
+Added Pin To Net: NetName=52832RESET Pin=U9-24
+Added Pin To Net: NetName=NRFU_RX Pin=U9-40
+Added Pin To Net: NetName=NRFU_TX Pin=U9-41
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC116_1
+Added Pin To Net: NetName=KEY1 Pin=S2-2
+Added Pin To Net: NetName=KEY1 Pin=U3-115
+Added Net: Name=KEY1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=U3-125
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC117_2 Pin=C117-2
+Added Pin To Net: NetName=NetC117_2 Pin=U12-10
+Added Net: Name=NetC117_2
+Added Pin To Net: NetName=NRF_SWDCLK Pin=SWD1-2
+Added Pin To Net: NetName=NRF_SWDCLK Pin=U9-8
+Added Net: Name=NRF_SWDCLK
+Added Pin To Net: NetName=NRF_SWDIO Pin=SWD1-3
+Added Pin To Net: NetName=NRF_SWDIO Pin=U9-7
+Added Net: Name=NRF_SWDIO
+Added Member To Class: ClassName=407VS429 Member=Component C73 105
+Added Member To Class: ClassName=407VS429 Member=Component C117 104
+Added Member To Class: ClassName=POWER Member=Component C200 106
+Added Member To Class: ClassName=407VS429 Member=Component R72 Res2
+Added Room: Name=407VS429
+Added Room: Name=POWER

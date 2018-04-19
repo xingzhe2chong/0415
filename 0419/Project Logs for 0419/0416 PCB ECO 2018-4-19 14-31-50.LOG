@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=U1-0
+Removed Pin From Net: NetName=3V3 Pin=U8-4
+Removed Pin From Net: NetName=GND Pin=U9-49
+Change Component Designator: OldDesignator=U1 NewDesignator=U10
+Change Net Name : Old Net Name=PA9 New Net Name=U1_TX
+Change Net Name : Old Net Name=PA10 New Net Name=U1_RX
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U10-19
+Added Net: Name=NetR8_2
+Added Room: Name=407VS429
+Added Room: Name=POWER
