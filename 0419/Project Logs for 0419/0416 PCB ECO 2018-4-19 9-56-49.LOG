@@ -1,6 +1,0 @@
-Added Component: Designator=C48(0603T)
-Added Pin To Net: NetName=NetC48_1 Pin=C48-1
-Added Pin To Net: NetName=NetC48_2 Pin=C48-2
-Added Member To Class: ClassName=POWER Member=Component C48 104
-Added Room: Name=407VS429
-Added Room: Name=POWER

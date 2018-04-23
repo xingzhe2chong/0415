@@ -1,6 +1,0 @@
-Added Component: Designator=C99(0603T)
-Added Pin To Net: NetName=GND Pin=C99-1
-Added Pin To Net: NetName=NetC99_2 Pin=C99-2
-Added Pin To Net: NetName=+5V Pin=U8-5
-Added Member To Class: ClassName=407VS429 Member=Component C99 104
-Added Member To Class: ClassName=POWER Member=Component C99 10uF

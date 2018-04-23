@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=LCD_RST Pin=U3-101
-Removed Pin From Net: NetName=LCD_BL Pin=U3-134
-Added Pin To Net: NetName=LCD_RST Pin=U3-134
-Added Pin To Net: NetName=PD13 Pin=U3-101
-Added Net: Name=PD13
-Added Room: Name=407VS429
-Added Room: Name=POWER
