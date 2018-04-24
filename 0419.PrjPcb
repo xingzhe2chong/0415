@@ -105,23 +105,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=429.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=0419.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHBACWFJ
 
-[Document7]
+[Document6]
 DocumentPath=0422.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,18 +139,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WMBLECPG
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for 0419\Design Rule Check - 0416.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for 0419\Design Rule Check - 0416X.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for 0419\Design Rule Check - 0416XA.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for 0419\Design Rule Check - 0420.html
 DItemRevisionGUID=
 
